@@ -1,4 +1,3 @@
-#include <string>
 int gcd(int num1, int num2) {
 	int num_gcd;
 	if (num1 >= num2){
